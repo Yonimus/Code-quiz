@@ -6,3 +6,5 @@ Well, there's no reward so congratulations.
 The following is a simple javascript based quiz, four questions long.
 
 The application is also deployed to github pages at: https://yonimus.github.io/Code-quiz/
+
+<h3>Technologies used:<h3>
