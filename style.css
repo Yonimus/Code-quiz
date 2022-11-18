@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    margin-top: 5%;
+    flex: column;
+    background-color: gray;
+}
+
+
+button {
+    color: white;
+    border-radius: 10px;
+    background-color: orangered;
+    font-size: x-large;
+}
+/* 
+#time {
+        float: right;   
+}
+
+#highscores {
+    visibility: hidden;
+}
+
+#allscores {
+    margin-top: 2%;
+    font-weight: bold;
+} */
